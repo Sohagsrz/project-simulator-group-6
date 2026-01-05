@@ -143,3 +143,11 @@ Integrate Firebase Cloud Messaging (FCM) to send real-time notifications.
 Notifications include successful transactions, payment requests, or alerts.
 
 **Status : Implemented**
+
+## T20: Implement "Forgot Password" Email Flow
+
+Build secure password reset mechanism via email.
+
+Generate token-based links with expiry, validate tokens, and update passwords.
+
+**Status : Implemented**
