@@ -11,8 +11,7 @@ Plan tables for both personal users and merchants.
 
 **Status : Implemented**
 
-<<<<<<< HEAD
-..
+
 ## Design Figma Prototypes (Merchant App)
 
 Create high-fidelity Figma designs for the merchant application focusing on usability and consistency.
@@ -34,4 +33,5 @@ Ensure secure access and user-friendly navigation for merchants.
 Implemented modular Express.js routing architecture with feature-based route separation and middleware support to ensure scalable REST API development during the sprint.
 
 **Status : Implemented**
->>>>>>> 6b63ef0faf022446411af4f171eb714431a88da4
+
+
