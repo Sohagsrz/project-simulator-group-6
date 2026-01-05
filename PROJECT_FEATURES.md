@@ -16,3 +16,9 @@ Plan tables for both personal users and merchants.
 Implemented modular Express.js routing architecture with feature-based route separation and middleware support to ensure scalable REST API development during the sprint.
 
 **Status : Implemented**
+
+## T5: Build "Bank Account Mock" API
+
+Developed a mock banking service simulating balance checks, debit/credit, and OTP verification to enable safe testing of transaction flows without real bank integration.
+
+**Status : Implemented**
