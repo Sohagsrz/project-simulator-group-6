@@ -78,3 +78,13 @@ Monitored transaction status and generated logs for settlements.
 Ensured timely and accurate fund transfers to linked bank accounts.
 
 **Status : Implemented**
+
+## T12: Implement "Partial Refund" Logic
+
+Developed partial refund functionality with amount validation.
+
+Used transaction rollback to maintain consistency in MongoDB/SQL.
+
+Ensured secure and accurate fund reversal for disputed payments.
+
+**Status : Implemented**
