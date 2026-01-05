@@ -10,4 +10,5 @@ Define relationships, constraints, and indexes for efficient queries.
 Plan tables for both personal users and merchants.
 
 **Status : Implemented**
-**Status : Implemented**
+
+..
