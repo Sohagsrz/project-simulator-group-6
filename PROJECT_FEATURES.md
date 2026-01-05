@@ -28,3 +28,13 @@ Developed a mock banking service simulating balance checks, debit/credit, and OT
 Implemented end-to-end banking and transaction features including a mock bank API (debit/credit/balance with OTP), modular Express routing, transaction DB schema (audit-ready), instant transfer engine (Bank ↔ MFS) with validation and fees, Payment & Request Money APIs using JWT auth, mock MFS adaptors (bKash, Nagad, Rocket), daily settlement scheduler, partial refund logic with rollbacks, and Jest unit tests for core flows.
 
 **Status : Implemented**
+
+## T7: Design Transaction DB Schema
+
+Designed a normalized MongoDB/SQL schema for transactions with sender, receiver, amount, status, and timestamps.
+
+Structured database to support auditability, refunds, and settlements.
+
+Ensured data integrity and compliance with financial record-keeping standards.
+
+**Status : Implemented**
