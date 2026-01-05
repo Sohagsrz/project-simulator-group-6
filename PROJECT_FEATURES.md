@@ -68,3 +68,13 @@ Created standardized interfaces for provider-agnostic transactions.
 Enabled end-to-end simulation of wallet operations without real accounts.
 
 **Status : Implemented**
+
+## T11: Build "Daily Settlement" Scheduler
+
+Implemented cron-based scheduler for automatic merchant payouts.
+
+Monitored transaction status and generated logs for settlements.
+
+Ensured timely and accurate fund transfers to linked bank accounts.
+
+**Status : Implemented**
