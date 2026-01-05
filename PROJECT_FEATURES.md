@@ -38,3 +38,13 @@ Structured database to support auditability, refunds, and settlements.
 Ensured data integrity and compliance with financial record-keeping standards.
 
 **Status : Implemented**
+
+## T8: Implement "Instant Transfer" Engine
+
+Built real-time transaction engine for Bank ↔ MFS transfers.
+
+Added validation, fee calculation, and atomic DB updates.
+
+Ensured fast, secure, and reliable fund transfers.
+
+**Status : Implemented**
