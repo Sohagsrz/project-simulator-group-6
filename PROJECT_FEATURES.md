@@ -48,3 +48,13 @@ Added validation, fee calculation, and atomic DB updates.
 Ensured fast, secure, and reliable fund transfers.
 
 **Status : Implemented**
+
+## T9: Build "Payment" & "Request Money" APIs
+
+Developed RESTful APIs for sending payments and requesting money.
+
+Used JWT authentication and secure transaction handling.
+
+Ensured consistent behavior for peer-to-peer and merchant transactions.
+
+**Status : Implemented**
