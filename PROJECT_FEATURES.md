@@ -22,3 +22,11 @@ Implemented modular Express.js routing architecture with feature-based route sep
 Developed a mock banking service simulating balance checks, debit/credit, and OTP verification to enable safe testing of transaction flows without real bank integration.
 
 **Status : Implemented**
+
+## feature/build-bank-acc: Full Banking & Transaction Engine
+
+Branch: `feature/build-bank-acc`
+
+Summary: Implement end-to-end banking and transaction features including a mock bank API (debit/credit/balance with OTP), modular Express routing, transaction DB schema (audit-ready), instant transfer engine (Bank ↔ MFS) with validation and fees, Payment & Request Money APIs using JWT auth, mock MFS adaptors (bKash, Nagad, Rocket), daily settlement scheduler, partial refund logic with rollbacks, and Jest unit tests for core flows.
+
+Status: In Progress
