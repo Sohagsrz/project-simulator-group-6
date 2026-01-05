@@ -58,3 +58,13 @@ Used JWT authentication and secure transaction handling.
 Ensured consistent behavior for peer-to-peer and merchant transactions.
 
 **Status : Implemented**
+
+## T10: Integrate Mock MFS Adaptors
+
+Integrated mock MFS adaptors (bKash, Nagad, Rocket) for testing.
+
+Created standardized interfaces for provider-agnostic transactions.
+
+Enabled end-to-end simulation of wallet operations without real accounts.
+
+**Status : Implemented**
