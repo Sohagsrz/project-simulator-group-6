@@ -30,7 +30,7 @@ Ensure secure access and user-friendly navigation for merchants.
 =======
 ## T4: Setup Express.js Server Routing.
 
-Implemented modular Express.js routing architecture with feature-based route separation and middleware support to ensure scalable REST API development during the sprint.
+Implemented modular Express.js routing architecture with feature-based route separation and middleware support to ensure scalable REST API development during the sprint..
 
 **Status : Implemented**
 
