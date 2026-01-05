@@ -11,4 +11,3 @@ Plan tables for both personal users and merchants.
 
 **Status : Implemented**
 
-..
