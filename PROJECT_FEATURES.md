@@ -98,17 +98,7 @@ Verified transaction engine, refunds, and settlements for correctness.
 Reduced regression risks and ensured backend reliability.
 
 **Status : Implemented**
-## T14: Build Bank Account
 
-Simulated bank account creation and management for users.
-
-Mock system generating unique account numbers and account holders.
-
-Support deposit/withdrawal simulation with transaction logging.
-
-Enable account linking to user profiles for end-to-end banking simulation.
-
-**Status : In Progress**
 
 ## T15: Initialize Git & Project Structure
 
@@ -118,4 +108,4 @@ Organize the project folder structure for backend, frontend, configs, and docs.
 
 Ensure consistent coding standards and linting.
 
-**Status : In Progress**
+**Status : Implemented**
