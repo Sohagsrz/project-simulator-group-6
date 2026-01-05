@@ -151,3 +151,11 @@ Build secure password reset mechanism via email.
 Generate token-based links with expiry, validate tokens, and update passwords.
 
 **Status : Implemented**
+
+## T21: Global Error Logging Service
+
+Implement centralized error logging for backend services.
+
+Capture exceptions, API failures, and user-facing errors for debugging.
+
+**Status : Implemented**
