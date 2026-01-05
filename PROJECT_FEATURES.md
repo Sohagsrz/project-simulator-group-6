@@ -135,3 +135,11 @@ Set up hooks for biometric authentication (e.g., Face ID, Touch ID) on supported
 Integrate with login or sensitive transaction verification.
 
 **Status : Implemented**
+
+## T19: Setup Notifications System (Firebase)
+
+Integrate Firebase Cloud Messaging (FCM) to send real-time notifications.
+
+Notifications include successful transactions, payment requests, or alerts.
+
+**Status : Implemented**
