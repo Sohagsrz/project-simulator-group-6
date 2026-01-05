@@ -159,3 +159,13 @@ Implement centralized error logging for backend services.
 Capture exceptions, API failures, and user-facing errors for debugging.
 
 **Status : Implemented**
+
+## T22: Security Audit & Penetration Testing
+
+Perform security checks on APIs, database, and authentication flows.
+
+Identify vulnerabilities like SQL injection, XSS, or insecure data storage.
+
+Apply fixes and harden the system against attacks.
+
+**Status : Implemented**
