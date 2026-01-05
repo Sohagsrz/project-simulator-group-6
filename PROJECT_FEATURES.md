@@ -127,3 +127,11 @@ Implement middleware to prevent abuse and limit request frequency.
 Add input validation middleware to ensure all API requests meet expected formats.
 
 **Status : Implemented**
+
+## T18: Integrate Biometric Auth Hooks
+
+Set up hooks for biometric authentication (e.g., Face ID, Touch ID) on supported devices.
+
+Integrate with login or sensitive transaction verification.
+
+**Status : Implemented**
