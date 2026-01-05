@@ -126,46 +126,4 @@ Implement middleware to prevent abuse and limit request frequency.
 
 Add input validation middleware to ensure all API requests meet expected formats.
 
-**Status : In Progress**
-
-## T18: Integrate Biometric Auth Hooks
-
-Set up hooks for biometric authentication (e.g., Face ID, Touch ID) on supported devices.
-
-Integrate with login or sensitive transaction verification.
-
-**Status : In Progress**
-
-## T19: Setup Notifications System (Firebase)
-
-Integrate Firebase Cloud Messaging (FCM) to send real-time notifications.
-
-Notifications include successful transactions, payment requests, or alerts.
-
-**Status : In Progress**
-
-## T20: Implement "Forgot Password" Email Flow
-
-Build secure password reset mechanism via email.
-
-Generate token-based links with expiry, validate tokens, and update passwords.
-
-**Status : In Progress**
-
-## T21: Global Error Logging Service
-
-Implement centralized error logging for backend services.
-
-Capture exceptions, API failures, and user-facing errors for debugging.
-
-**Status : In Progress**
-
-## T22: Security Audit & Penetration Testing
-
-Perform security checks on APIs, database, and authentication flows.
-
-Identify vulnerabilities like SQL injection, XSS, or insecure data storage.
-
-Apply fixes and harden the system against attacks.
-
-**Status : In Progress**
+**Status : Implemented**
