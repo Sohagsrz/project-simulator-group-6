@@ -88,3 +88,13 @@ Used transaction rollback to maintain consistency in MongoDB/SQL.
 Ensured secure and accurate fund reversal for disputed payments.
 
 **Status : Implemented**
+
+## T13: Write Unit Tests for Core Logic
+
+Wrote unit tests using Jest for all core backend flows.
+
+Verified transaction engine, refunds, and settlements for correctness.
+
+Reduced regression risks and ensured backend reliability.
+
+**Status : Implemented**
