@@ -169,3 +169,7 @@ Identify vulnerabilities like SQL injection, XSS, or insecure data storage.
 Apply fixes and harden the system against attacks.
 
 **Status : Implemented**
+## T23 : Layout Login/Signup Screens
+Design the authentication screens including login and registration forms with proper input fields, validation hints, error messages, and smooth user navigation.
+
+**Status : Implemented**
