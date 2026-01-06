@@ -173,3 +173,55 @@ Apply fixes and harden the system against attacks.
 Design the authentication screens including login and registration forms with proper input fields, validation hints, error messages, and smooth user navigation.
 
 **Status : Implemented**
+
+## T24  : Design Figma Prototypes (Merchant App)  
+Create high-fidelity Figma designs for the merchant application focusing on usability and consistency.
+Ensure screens follow branding guidelines and support smooth merchant workflows.
+
+**Status : Implemented**
+
+## T25  : Merchant Login Screen Layout
+Design and implement the merchant login interface with input validation and clean UI.
+Ensure secure access and user-friendly navigation for merchants.
+
+**Status  : Implemented**
+
+## T26  : Merchant Dashboard Skeleton
+Develop the basic structure of the merchant dashboard to display key metrics and actions.
+Prepare placeholders for earnings, QR payments, analytics, and transaction summaries.
+
+**Status  : Implemented**
+
+##  T27:  Generate QR Code Feature
+Implement dynamic QR code generation for merchant payment acceptance.
+Ensure QR codes are secure, scannable, and linked to merchant transaction data.
+
+**Status  : Implemented**
+
+## T28  : Add Cashier Interface
+Build an interface that allows merchants to add, manage, and assign cashiers.
+Support role-based access to ensure controlled transaction handling.
+
+**Status  : Implemented**
+
+## T29  : Withdraw Earnings Function
+Develop functionality enabling merchants to withdraw earnings to linked bank or MFS accounts.
+Ensure transaction validation, confirmation, and error handling.
+
+**Status  : Implemented**
+
+##  T30  : Upload Inventory CSV Feature
+Implement CSV upload functionality for bulk inventory management.
+Validate file format and store product data securely in the system
+
+**Status  : Implemented**
+
+##  T31  : Sales Analytics using Chart.js
+Integrate Chart.js to visualize merchant sales performance and trends.
+Display daily, weekly, and monthly insights for better business decisions.
+**Status  :  Implemented**
+
+##  T32  : Send Invoice Email Tool
+Develop an email-based invoice generation and sending feature for merchants.
+Ensure invoices include transaction details and are delivered securely.
+**Status  :  Implemented**
